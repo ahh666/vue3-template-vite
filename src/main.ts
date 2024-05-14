@@ -37,3 +37,6 @@ export function createApp() {
   app.use(Idux);
   return { app };
 }
+
+const { app } = createApp();
+app.mount('#app');
