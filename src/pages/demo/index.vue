@@ -25,7 +25,7 @@
                     <a traget="_blank" href="https://octoverse.github.com/"><font>octoverse</font></a>`;
   const datav = reactive([
     { num: 73, unit: '百万+', text: 'GitHub 上的开发人员总数', bg: 'bg-1' },
-    { num: 16, unit: '百万+', text: '2021年新增用户', bg: 'bg-2' },
+    { num: 16, unit:"百万22+", text: '2021年新增用户', bg: 'bg-2' },
     {
       num: 84,
       unit: '百分之',
