@@ -32,7 +32,7 @@
       text: '财富100强公司<br>使用GitHub Enterprise',
       bg: 'bg-0',
     },
-    { num: 61, unit: '百万+22', text: '创建的新存储库数量', bg: 'bg-0' },
+    { num: 61, unit: '百万+', text: '创建的新存储库数量', bg: 'bg-0' },
     { num: 170, unit: '百万', text: '合并拉去请求', bg: 'bg-3' },
   ]);
 </script>
